@@ -1,0 +1,19 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.tlog/
+
+# Build output
+**/x64/
+**/Debug/
+**/Release/
+*.exe
+
+# macOS and Windows system files
+.DS_Store
+desktop.ini
